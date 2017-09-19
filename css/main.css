@@ -19,9 +19,12 @@ i {
 }
 
 .border {
-  border-top: 1px solid grey;
-  border-bottom: 1px solid grey;
+  border-top: 1px solid #e2e2e2;
+  border-bottom: 1px solid #e2e2e2;
 }
 
-@media only screen and (min-width: 60em) {
+li a {
+  text-decoration: none;
+  border-bottom: 1px solid #d89fb0;
+  color: #d89fb0;
 }
